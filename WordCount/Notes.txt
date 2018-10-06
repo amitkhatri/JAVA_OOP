@@ -1,0 +1,6 @@
+* Use a file scanner to read the contents of a file
+* create a loop that reads every line into a string
+* Split the string using the space character as a delimiter
+* Count the number of words in that line using the length of split array
+* Add up all words
+* Display total word Count
