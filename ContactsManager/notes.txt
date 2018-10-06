@@ -1,0 +1,4 @@
+Create a "Contacts Manager"
+
+* The contacts manager CONTAINS Contacts
+* A contact consists of: Name, email, phone
