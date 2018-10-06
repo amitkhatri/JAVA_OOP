@@ -1,0 +1,8 @@
+Program Flow
+
+* Generate a random number between 1-100
+* Create a loop that asks the user to guess a number
+* Read the user's input and compare it to the random number
+* Leet user know if guessed # was greater than or less than random #
+* If right, end loop
+* If they use all 10 guesses, they've lost
